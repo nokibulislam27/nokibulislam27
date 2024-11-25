@@ -27,7 +27,7 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<table height="48">
+<table height="96">
   <tr>
     
    <td align="center" width="96">
@@ -67,7 +67,7 @@
     
  </table>
  
- <table>
+ <table height="96">
 
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
