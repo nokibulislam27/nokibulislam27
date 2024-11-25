@@ -1,3 +1,4 @@
+
 <h1 align="center" id="title">:wave: Hello there! I'm Nokibul Islam</h1>
 <div align="center">
 💻 Frontend Developer | ⚡ Passionate about Learning New Technologies<br/><br/>
@@ -80,7 +81,7 @@
    </td>
    
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=MongoDB" width="48" height="48" alt="MongoDB" />
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
       <br>MongoDB
    </td>
 
