@@ -9,7 +9,7 @@
     <!-- Personal Challenges Content -->
   <br/>
     <div style="flex: 1; padding-right: 20px;">
-        <h3>:muscle: Personal Challenges</h3>
+        ## Personal Challenges
         <ul>
             <li>🌅 Waking up early to boost productivity.</li>
             <li>💻 Coding 6+ hours daily on complex projects.</li>
@@ -21,16 +21,17 @@
   
 </div>
 
-<be>
+<br>
+
 
 ## Current Stats
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=nokibulislam27&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=nokibulislam27&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-<be> 
+<br> 
 
 ## Technologies and Tools
 
