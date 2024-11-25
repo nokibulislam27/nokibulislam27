@@ -19,6 +19,7 @@
   
 </div>
 
-[![Github](https://img.shields.io/github/followers/ImRanKhan81m?label=Follow&style=social)](https://github.com/ImRanKhan81m)&nbsp;<!-- ![Profile views](https://gpvc.arturio.dev/ImRanKhan81m) -->
-[![wakatime](https://wakatime.com/badge/user/b91aacce-e1eb-46ee-8af4-b4fe37728d49.svg)](https://wakatime.com/@b91aacce-e1eb-46ee-8af4-b4fe37728d49)
-
+### <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width='50'/>&nbsp;Technologies and Tools</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,figma,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,git,heroku,netlify,docker,aws,gcp,azure,postman,vscode,linux,windows,discord,trello,jira" />
+</p>
