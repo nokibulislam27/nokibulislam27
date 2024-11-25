@@ -40,7 +40,7 @@
       <br>Css
    </td>
       
-   <td align="center" width="96">
+   <td align="center" width="106">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" />
       <br>Js
    </td>
