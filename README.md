@@ -2,7 +2,7 @@
 nodejs,express,MongoDB,firebase,git,netlify,vscode,windows,discord
 
 
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Nokibul Islam</h1>
+<h1 align="left" id="title">:wave: Hello there! I'm Nokibul Islam</h1>
 <h3 align="left">Frontend Developer</h3>
 
  <!-- Personal Challenges Section with Flex Layout -->
@@ -31,7 +31,7 @@ nodejs,express,MongoDB,firebase,git,netlify,vscode,windows,discord
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="55" alt="html" />
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="60" alt="html" />
       <br>Html
     </td>
    <td align="center" width="96">
