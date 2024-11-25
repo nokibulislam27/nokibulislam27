@@ -4,9 +4,6 @@ Nokibul Islam
  
  
  <!-- Personal Challenges Section with Flex Layout -->
-   <div > 
-      <img align='right' src="https://my-portfolio-brown-nine-34.vercel.app/static/media/animation_500_lc2bfz78.72a973a6134ce972aed7.gif" width="300">
-    </div>
 <div align='left'>
     <!-- Personal Challenges Content -->
   <br/>
