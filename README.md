@@ -21,9 +21,9 @@
   
 </div>
 
-<be>
+<br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=dark-minimalist)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=dark-minimalist" alt="GitHub Streak" /></a>
 <br> 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
