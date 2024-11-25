@@ -9,14 +9,16 @@
     <!-- Personal Challenges Content -->
   <br/>
     <div style="flex: 1; padding-right: 20px;">
-        ## Personal Challenges
-        <ul>
-            <li>🌅 Waking up early to boost productivity.</li>
-            <li>💻 Coding 6+ hours daily on complex projects.</li>
-            <li>🏋️ Exercising 3 times a week for balance.</li> 
-            <li>🎯 Contributing to open-source regularly.</li>
-            <li>💻 I’m currently working on my home lab.</li>
-        </ul>
+       
+   ## Personal Challenges
+   
+   <ul>
+        <li>🌅 Waking up early to boost productivity.</li>
+        <li>💻 Coding 6+ hours daily on complex projects.</li>
+        <li>🏋️ Exercising 3 times a week for balance.</li> 
+        <li>🎯 Contributing to open-source regularly.</li>
+        <li>💻 I’m currently working on my home lab.</li>
+    </ul>
     </div> 
   
 </div>
