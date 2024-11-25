@@ -64,15 +64,16 @@
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
       <br>Figma
    </td>
+    
+ </table>
+   <br>
+ <table>
 
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
       <br>Nodejs
    </td>
-   </table>
-   <br>
-
-   <table>
+ 
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
       <br>Firebase
