@@ -40,7 +40,7 @@
       <br>Css
    </td>
       
-   <td align="center" width="106">
+   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" />
       <br>Js
    </td>
@@ -69,7 +69,7 @@
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
       <br>Nodejs
    </td>
-
+<br>
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
       <br>Firebase
