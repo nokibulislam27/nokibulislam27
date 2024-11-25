@@ -21,5 +21,5 @@
 
 ### <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width='50'/>&nbsp;Technologies and Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,figma,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,git,heroku,netlify,docker,aws,gcp,azure,postman,vscode,linux,windows,discord,trello,jira" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,figma,react,nextjs,nodejs,express,MongoDB,firebase,git,netlify,vscode,windows,discord" />
 </p>
