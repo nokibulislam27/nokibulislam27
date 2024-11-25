@@ -27,7 +27,7 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<table>
+<table height="48">
   <tr>
     
    <td align="center" width="96">
@@ -66,7 +66,7 @@
    </td>
     
  </table>
-   <br>
+ 
  <table>
 
    <td align="center" width="96">
