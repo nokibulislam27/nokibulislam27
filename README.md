@@ -27,7 +27,7 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<table height="110">
+<table>
   <tr>
     
    <td align="center" width="96">
@@ -56,8 +56,8 @@
    </td>
     
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
-      <br>Nextjs
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
+      <br>Nodejs
    </td>
    
    <td align="center" width="96">
@@ -67,13 +67,8 @@
     
  </table>
  
- <table height="110">
+ <table>
 
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
-      <br>Nodejs
-   </td>
- 
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
       <br>Firebase
