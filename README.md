@@ -31,10 +31,10 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<table <img src="https://skillicons.dev/icons?i= >
+<table>
   <tr>
     <td align="center" width="96">
-        <img src="html" width="48" height="48" alt="Golang" />
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="Golang" />
       <br>Go
     </td>
     <td align="center" width="96">
