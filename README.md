@@ -1,9 +1,7 @@
-
-nodejs,express,MongoDB,firebase,git,netlify,vscode,windows,discord
-
-
-<h1 align="left" id="title">:wave: Hello there! I'm Nokibul Islam</h1>
-<h3 align="left">Frontend Developer</h3>
+<h1 align="center" id="title">:wave: Hello there! I'm Nokibul Islam</h1>
+<div align="center">
+💻 Frontend Developer | ⚡ Passionate about Learning New Technologies<br/><br/>
+</div>
 
  <!-- Personal Challenges Section with Flex Layout -->
 <div align='left'>
@@ -30,34 +28,75 @@ nodejs,express,MongoDB,firebase,git,netlify,vscode,windows,discord
 
 <table>
   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="60" alt="html" />
-      <br>Html
-    </td>
+    
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="55" alt="css" />
-      <br>Css
-    </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="55" alt="js" />
-      <br>Js
-    </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="55" alt="react" />
-      <br>React
-    </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="55" alt="tailwind" />
-      <br>Tailwind
-    </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="55" alt="nextjs" />
-      <br>Nextjs
-    </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="55" alt="figma" />
-      <br>Figma
-    </td>
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" />
+      <br>Html
+   </td>
    
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>Css
+   </td>
+      
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" />
+      <br>Js
+   </td>
+       
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
+      <br>React
+   </td>
+       
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+   </td>
+    
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
+      <br>Nextjs
+   </td>
+   
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
+      <br>Figma
+   </td>
+
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
+      <br>Nodejs
+   </td>
+
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
+      <br>Firebase
+   </td>
+   
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
+      <br>Express
+   </td>
+   
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=MongoDB" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+   </td>
+
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
+      <br>vscode
+   </td>
+
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
+      <br>Git
+   </td>
+
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="netlify" />
+      <br>Netlify
+   </td>
   </tr>
 </table>
