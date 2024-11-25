@@ -21,8 +21,10 @@
   
 </div>
 
-<br>
+<be>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=dark-minimalist)](https://git.io/streak-stats)
+<br> 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
