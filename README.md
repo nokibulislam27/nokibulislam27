@@ -1,8 +1,5 @@
 
- ### <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width='50'/>&nbsp;Technologies and Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,figma,react,nextjs,nodejs,express,MongoDB,firebase,git,netlify,vscode,windows,discord" />
-</p>
+nodejs,express,MongoDB,firebase,git,netlify,vscode,windows,discord
 
 
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Nokibul Islam</h1>
@@ -34,48 +31,33 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="Golang" />
-      <br>Go
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="55" alt="html" />
+      <br>Html
     </td>
-    <td align="center" width="96">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="55" alt="css" />
+      <br>Css
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="55" alt="js" />
+      <br>Js
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="55" alt="react" />
+      <br>React
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="55" alt="tailwind" />
+      <br>Tailwind
     </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="55" alt="nextjs" />
+      <br>Nextjs
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="55" alt="figma" />
+      <br>Figma
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
+   
   </tr>
 </table>
